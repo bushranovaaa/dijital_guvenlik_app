@@ -63,12 +63,13 @@ Bu projeyi hayata geçiren, dijital şiddete karşı mücadelede bir araya gelmi
 - Büşra Kurt – [Linkedln](https://www.linkedin.com/in/bushrasac35/)
 Projenin kodları ve fikirlerinin arkasındaki zihin! 💻✨
 
-- Cennet Çelik – [Linkedln](https://www.linkedin.com/in/cennet-%C3%A7elik-a7691430a/)
-İlham veren fikirleri ve katkılarıyla projeye değer katmaya devam ediyor! 🚀
-
 - Mehmet Arif Aydal – [Linkedln](https://www.linkedin.com/in/mehmet-arif-aydal-91932a254/)
 Her adımda çözüm odaklı yaklaşımıyla ekibin vazgeçilmezi! 🔧⚡
 
+- Cennet Çelik – [Linkedln](https://www.linkedin.com/in/cennet-%C3%A7elik-a7691430a/)
+İlham veren fikirleri ve katkılarıyla projeye değer katmaya devam ediyor! 🚀
+
+
+
 ## 🌍 İletişim
-Ekip: [Büşra Kurt, Cennet Çelik, Mehmet Arif Aydal]
-E-posta:(kurtbusra956@gmail.com)
+kurtbusra956@gmail.com
