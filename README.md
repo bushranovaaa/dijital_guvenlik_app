@@ -33,7 +33,7 @@ Projeyi tanıtan videoyu izlemek için aşağıdaki bağlantıya tıklayın:
 ## 🚀 Kurulum
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone https://github.com/username/dijital-siddet-uygulama.git
+   git clone https://github.com/bushrasac35/Dijital_Siddet.git
 2. Proje dizinine gidin:
    ```bash
     cd dijital-siddet-uygulama
@@ -57,7 +57,7 @@ Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bizimle il
 Bu proje MIT Lisansı kapsamında lisanslanmıştır.
 
 ## 🌟 Ekip
-**Dijital Şiddete Karşı Güçlü Birleşim 🌟**
+**Dijital Şiddete Karşı Güçlü Birleşim🌟**
 Bu projeyi hayata geçiren, dijital şiddete karşı mücadelede bir araya gelmiş güçlü ekip! 💪
 
 - Büşra Kurt – [Linkedln](https://www.linkedin.com/in/bushrasac35/)
@@ -68,8 +68,6 @@ Her adımda çözüm odaklı yaklaşımıyla ekibin vazgeçilmezi! 🔧⚡
 
 - Cennet Çelik – [Linkedln](https://www.linkedin.com/in/cennet-%C3%A7elik-a7691430a/)
 İlham veren fikirleri ve katkılarıyla projeye değer katmaya devam ediyor! 🚀
-
-
 
 ## 🌍 İletişim
 kurtbusra956@gmail.com
