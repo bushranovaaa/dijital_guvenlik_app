@@ -1,73 +1,91 @@
 # 🚨 Dijital Şiddetle Mücadele Mobil Uygulaması 🚨
 
-Dijital şiddet, giderek daha fazla kişiyi etkileyen bir sorun. Bu mobil uygulama, dijital şiddetle mücadele etmek, farkındalık yaratmak ve mağdurlara yardım sunmak amacıyla geliştirildi. Uygulama, kullanıcıların dijital şiddet konusunda bilgi edinmesini sağlarken, acil yardım kaynaklarına kolay erişim sunar.
+Dijital şiddet, günümüzde giderek artan ve bireylerin psikolojik, sosyal ve ekonomik yönden zarar görmesine neden olan önemli bir sorundur. Bu mobil uygulama, dijital şiddetle mücadele etmek, farkındalık yaratmak ve mağdurlara destek sunmak amacıyla geliştirildi. Kullanıcıların bilinçlenmesini sağlarken, acil yardım kaynaklarına hızlı erişim sunar.
 
 ---
 
-## 🎯 Proje Hedefi
-Bu uygulama, dijital şiddetin zararları hakkında farkındalık yaratmayı ve dijital şiddet mağdurlarına güvenli bir alan sağlamayı hedefliyor. Amacımız, gençler ve dijital dünyada aktif kullanıcılar arasında farkındalık oluşturmak ve onları bilinçlendirmektir.
+## 🎯 Proje Amacı  
+Bu uygulama, dijital şiddetin etkilerini azaltmayı, bilinçli bireyler yetiştirmeyi ve mağdurların güvende hissetmesini sağlamayı amaçlamaktadır. Özellikle gençler ve dijital platformlarda aktif kullanıcılar için bilinçlendirme sağlamak hedeflenmiştir.
 
 ---
 
-## ✨ Özellikler
-- **Farkındalık Eğitimi**: Dijital şiddet hakkında bilgi edin, şiddetin türlerini tanı.
-- **Anonim Destek**: Dijital şiddet mağdurları için anonim yardım.
-- **Risk Analizi**: Kullanıcıların risk seviyelerini değerlendirip kendilerini test etmeleri için interaktif testler.
-- **Acil Yardım Kaynakları**: Acil yardım hatları ve güvenli iletişim bilgilerine kolay erişim.
+## ✨ Öne Çıkan Özellikler  
+
+✅ Farkındalık Eğitimi – Dijital şiddetin türlerini öğren, korunma yollarını keşfet.  
+✅ Anonim Destek – Mağdurlar için güvenli ve anonim yardım hizmeti.  
+✅ Risk Analizi – Kullanıcıların dijital şiddet risk seviyesini ölçen interaktif testler.  
+✅ Acil Yardım Kaynakları – Güvenli iletişim bilgileri ve acil destek hatlarına erişim.
 
 ---
 
-## 🎥 Tanıtım Videosu
-Projeyi tanıtan videoyu izlemek için aşağıdaki bağlantıya tıklayın:
-[Proje Tanıtım Videosunu İzle](https://www.linkedin.com/feed/update/urn:li:activity:7265820006330847232/)
+🎥 Tanıtım Videosu
+ Projeyi tanıtan videoyu izlemek için aşağıdaki bağlantıya tıklayın:  
+🔗 [Proje Tanıtım Videosunu İzle](https://www.linkedin.com/feed/update/urn:li:activity:7265820006330847232/)  
 
 ---
 
-## 🛠️ Teknolojiler
-- **Programlama Dili**: [Flutter/Dart, Java, Kotlin, vb.]
-- **Veritabanı**: [Firebase, SQLite, vb.]
-- **API**: [Kullanılan dış API'ler]
+🛠 Kullanılan Teknolojiler  
+- Programlama Dili: Flutter (Dart), Java, Kotlin  
+- Veritabanı: Firebase, SQLite  
+- API Entegrasyonları: [Kullanılan API’ler]  
 
 ---
 
-## 🚀 Kurulum
-1. Projeyi bilgisayarınıza klonlayın:
+🚀 Kurulum Adımları  
+1. Projeyi bilgisayarınıza klonlayın:  
+  ```bash
+   git clone https://github.com/bushranovaaa/dijital_guvenlik_app.git
+
+
+```
+2. Proje dizinine girin:  
    ```bash
-   git clone https://github.com/bushrasac35/Dijital_Siddet.git
-2. Proje dizinine gidin:
-   ```bash
-    cd dijital-siddet-uygulama
-3. Gerekli bağımlılıkları yükleyin:
-   ```bash
-    flutter pub get
-4. Uygulamayı çalıştırın:
-   ```bash
-    flutter run
+   cd dijital-siddet-uygulama
    
-## 📱 Kullanım
-- Uygulamayı başlatın ve profil oluşturun.
-- Eğitim sekmesinden dijital şiddet hakkında bilgi edinin.
-- Destek sekmesinden yardım kaynaklarına ulaşın.
-- Risk Analizi sekmesinden kendinizi test edin.
+3. Bağımlılıkları yükleyin:  
+   ```bash
+   flutter pub get
+   
+4. Uygulamayı çalıştırın:  
+   ```bash
+   flutter run
+   
 
-## 🤝 Katkıda Bulunma
-Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bizimle iletişime geçin. Projeye katkı sağlamak için her zaman açığız! Her katkı bizim için çok değerli! 🌟
+---
 
-## 📝 Lisans
-Bu proje MIT Lisansı kapsamında lisanslanmıştır.
+📱 Nasıl Kullanılır?  
+- Profil oluşturun ve giriş yapın.  
+- Eğitim modülünden dijital şiddet hakkında bilgi edinin.  
+- Destek sekmesinden acil yardım kaynaklarına ulaşın.  
+- Risk analizi testi ile mevcut durumunuzu değerlendirin.  
 
-## 🌟 Ekip
-**Dijital Şiddete Karşı Güçlü Birleşim🌟**
-Bu projeyi hayata geçiren, dijital şiddete karşı mücadelede bir araya gelmiş güçlü ekip! 💪
+---
 
-- Büşra Kurt – [Linkedln](https://www.linkedin.com/in/bushrasac35/)
-Projenin kodları ve fikirlerinin arkasındaki zihin! 💻✨
+🤝 Projeye Katkıda Bulunun  
+Bu projeye katkı sağlamak istiyorsanız, pull request gönderebilir veya doğrudan iletişime geçebilirsiniz. Her katkı bizim için çok değerli! 🌟  
 
-- Mehmet Arif Aydal – [Linkedln](https://www.linkedin.com/in/mehmet-arif-aydal-91932a254/)
-Her adımda çözüm odaklı yaklaşımıyla ekibin vazgeçilmezi! 🔧⚡
+---
 
-- Cennet Çelik – [Linkedln](https://www.linkedin.com/in/cennet-%C3%A7elik-a7691430a/)
-İlham veren fikirleri ve katkılarıyla projeye değer katmaya devam ediyor! 🚀
+📝 Lisans  
+Bu proje, MIT Lisansı kapsamında açık kaynak olarak paylaşılmaktadır.  
 
-## 🌍 İletişim
-kurtbusra956@gmail.com
+---
+
+🌟 Proje Ekibi
+[23:57, 27.03.2025] Aress: Dijital Şiddete Karşı Güçlü Birleşim! 💪  
+
+👩‍💻 Büşra Kurt – Proje lideri, yazılım geliştirici  
+🔗 [LinkedIn](https://www.linkedin.com/in/bushrasac35/)  
+
+🔧 Mehmet Arif Aydal – Teknik destek ve analiz  
+🔗 [LinkedIn](https://www.linkedin.com/in/mehmet-arif-aydal-91932a254/)  
+
+🚀 Cennet Çelik – Strateji ve farkındalık çalışmaları  
+🔗 [LinkedIn](https://www.linkedin.com/in/cennet-%C3%A7elik-a7691430a/)  
+
+---
+
+📩 İletişim  
+📧 E-posta: kurtbusra956@gmail.com  
+
+---  
