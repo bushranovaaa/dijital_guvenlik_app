@@ -1,0 +1,7 @@
+dependencies:
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  encrypt: ^5.0.0
+dev_dependencies:
+  hive_generator: ^2.0.0
+  build_runner: ^2.4.0
