@@ -1,0 +1,100 @@
+{
+  "digitalSecurityContent": {
+    "whatIsDigitalSecurity": {
+      "title": "Dijital Güvenlik Nedir?",
+      "items": [
+        {
+          "subTitle": "Tanım",
+          "content": "Dijital güvenlik, bireylerin ve kuruluşların dijital ortamdaki bilgi varlıklarını, sistemlerini ve ağlarını yetkisiz erişim, kullanım, ifşa, bozma, değiştirme veya imha etme gibi tehditlere karşı koruma sürecidir. Bu, kişisel verilerin, finansal bilgilerin ve çevrimiçi kimliğin korunmasını kapsar."
+        },
+        {
+          "subTitle": "Neden Önemli?",
+          "content": "Günümüzde internet, hayatımızın her alanına nüfuz etmiştir. Alışverişten bankacılığa, sosyal medyadan eğitime kadar her işlemimizi dijital ortamlarda gerçekleştiriyoruz. Bu durum, siber saldırganlar için yeni fırsatlar yaratırken, kişisel bilgilerimizin ve dijital varlıklarımızın risk altında olmasına neden olur. Dijital güvenlik, bu risklere karşı kendimizi ve sevdiklerimizi korumanın temelidir."
+        },
+        {
+          "subTitle": "Temel Prensipler",
+          "content": "Dijital güvenliğin temel prensipleri arasında gizlilik (verilerin yetkisiz kişilere açıklanmaması), bütünlük (verilerin doğru ve eksiksiz olması) ve erişilebilirlik (yetkili kullanıcıların verilere ve sistemlere ihtiyaç duyduklarında erişebilmesi) yer alır."
+        }
+      ]
+    },
+    "typesOfDigitalViolence": {
+      "title": "Dijital Şiddet Türleri",
+      "items": [
+        {
+          "subTitle": "Siber Zorbalık",
+          "content": "Elektronik iletişim araçlarını kullanarak bir kişiyi kasıtlı olarak rahatsız etme, tehdit etme, utandırma veya hedef gösterme eylemidir. Sosyal medya, mesajlaşma uygulamaları veya e-posta yoluyla gerçekleşebilir."
+        },
+        {
+          "subTitle": "Siber Takip (Stalking)",
+          "content": "Bir kişiyi internet ve diğer elektronik araçlar aracılığıyla sürekli ve istenmeyen bir şekilde izleme, taciz etme veya tehdit etme eylemidir. Mağdurun çevrimiçi hareketlerini, konumunu veya kişisel bilgilerini takip etmeyi içerebilir."
+        },
+        {
+          "subTitle": "Kimlik Avı (Phishing)",
+          "content": "Dolandırıcıların, güvenilir bir kurum (banka, sosyal medya platformu vb.) gibi davranarak kişisel bilgileri (şifreler, kredi kartı numaraları) ele geçirmeye çalıştığı sahtekarlık yöntemidir. Genellikle sahte e-postalar veya web siteleri aracılığıyla yapılır."
+        },
+        {
+          "subTitle": "Cinsel Taciz ve İfşa",
+          "content": "Dijital ortamda cinsel içerikli mesajlar, fotoğraflar veya videolar göndererek bir kişiyi taciz etme, rızası olmadan özel görüntülerini yayma veya şantaj yapma eylemidir. Bu, mağdur üzerinde derin psikolojik yaralar bırakabilir."
+        },
+        {
+          "subTitle": "İtibar Zedeleme",
+          "content": "Bir kişinin dijital ortamdaki itibarını zedelemek amacıyla yalan, yanlış veya kötü niyetli bilgileri yayma eylemidir. Sosyal medya paylaşımları, forum yorumları veya sahte haberler aracılığıyla gerçekleşebilir."
+        }
+      ]
+    },
+    "psychologicalEffects": {
+      "title": "Psikolojik Etkiler",
+      "items": [
+        {
+          "subTitle": "Kaygı ve Stres",
+          "content": "Dijital şiddete maruz kalan bireylerde sürekli bir kaygı, stres ve gerginlik hali görülebilir. Gelecekte benzer durumlarla karşılaşma korkusu, günlük yaşamlarını olumsuz etkileyebilir."
+        },
+        {
+          "subTitle": "Depresyon ve Umutsuzluk",
+          "content": "Uzun süreli dijital şiddet, bireylerde depresyon, umutsuzluk, motivasyon kaybı ve hatta intihar düşüncelerine yol açabilir. Sosyal izolasyon ve yalnızlık hissi bu durumu derinleştirebilir."
+        },
+        {
+          "subTitle": "Özgüven Kaybı",
+          "content": "Siber zorbalık veya itibar zedeleme gibi durumlar, mağdurun kendine olan güvenini sarsabilir. Kendini değersiz, yetersiz veya çirkin hissetme gibi olumsuz düşünceler gelişebilir."
+        },
+        {
+          "subTitle": "Sosyal İzolasyon",
+          "content": "Dijital şiddet mağdurları, yaşadıkları olumsuz deneyimler nedeniyle sosyal çevrelerinden uzaklaşabilir, etkinliklere katılmaktan çekinebilir ve yalnızlık hissi yaşayabilirler."
+        },
+        {
+          "subTitle": "Uyku Bozuklukları ve Fiziksel Belirtiler",
+          "content": "Stres ve kaygı, uyku düzenini bozabilir, uykusuzluk, kabuslar veya huzursuz uyku gibi sorunlara yol açabilir. Ayrıca baş ağrısı, mide sorunları gibi fiziksel belirtiler de görülebilir."
+        }
+      ]
+    },
+    "struggleMethods": {
+      "title": "Mücadele Yöntemleri",
+      "items": [
+        {
+          "subTitle": "Kanıt Toplama",
+          "content": "Dijital şiddete maruz kaldığınızda, mesajları, ekran görüntülerini, e-postaları ve diğer ilgili materyalleri kaydedin. Bu kanıtlar, yasal süreçlerde veya platformlara şikayet ederken çok önemli olacaktır."
+        },
+        {
+          "subTitle": "Engelleme ve Raporlama",
+          "content": "Sizi rahatsız eden kişileri veya hesapları hemen engelleyin. Ardından, ilgili platformun (sosyal medya, mesajlaşma uygulaması vb.) raporlama mekanizmalarını kullanarak durumu bildirin. Platformlar genellikle bu tür ihlallere karşı katı politikalara sahiptir."
+        },
+        {
+          "subTitle": "Güvenilir Birine Danışma",
+          "content": "Yaşadıklarınızı güvendiğiniz bir aile üyesi, arkadaş, öğretmen veya danışmanla paylaşın. Duygusal destek almak ve durumu dışarıdan bir gözle değerlendirmek size yardımcı olacaktır."
+        },
+        {
+          "subTitle": "Yasal Yollara Başvurma",
+          "content": "Dijital şiddet ciddi boyutlara ulaştığında ve diğer yöntemler işe yaramadığında, yasal yollara başvurmaktan çekinmeyin. Bir avukattan veya ilgili kolluk kuvvetlerinden (siber suçlar birimi) yardım isteyebilirsiniz. Topladığınız kanıtlar bu süreçte çok işe yarayacaktır."
+        },
+        {
+          "subTitle": "Dijital Detoks ve Sınır Koyma",
+          "content": "Durumun psikolojik etkileriyle başa çıkmak için belirli bir süre dijital platformlardan uzaklaşmak veya çevrimiçi zamanınızı sınırlamak faydalı olabilir. Kendinize sınırlar koymak ve zihinsel sağlığınıza öncelik vermek önemlidir."
+        },
+        {
+          "subTitle": "Psikolojik Destek Alma",
+          "content": "Dijital şiddetin neden olduğu kaygı, depresyon veya travma gibi durumlarla başa çıkmak için bir psikolog veya terapistten profesyonel destek almayı düşünebilirsiniz. Uzman yardımı, iyileşme sürecinizi hızlandıracaktır."
+        }
+      ]
+    }
+  }
+}
