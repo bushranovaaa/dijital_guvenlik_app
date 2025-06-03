@@ -1,0 +1,68 @@
+{
+  "applicationName": "Dijital Kalkanım Mobil Uygulaması",
+  "privacyPolicy": {
+    "title": "Gizlilik Politikası",
+    "introduction": "Dijital Kalkanım Mobil Uygulaması olarak, kullanıcılarımızın gizliliğini ve kişisel verilerinin güvenliğini en üst düzeyde tutmayı taahhüt ediyoruz. Bu Gizlilik Politikası, uygulamamız aracılığıyla hangi verileri topladığımızı, bu verileri nasıl kullandığımızı, sakladığımızı ve koruduğumuzu açıklamaktadır. Uygulamamızı kullanarak bu politikayı kabul etmiş olursunuz.",
+    "collectedData": {
+      "title": "Toplanan Veriler",
+      "description": "Uygulamamız, temel olarak dijital güvenlik farkındalığı ve bilgilendirme amaçlıdır. Bu doğrultuda, kişisel tanımlanabilir veriler toplama konusunda son derece kısıtlıyız.",
+      "dataTypes": [
+        {
+          "name": "Usage Data",
+          "details": "Uygulama içi etkileşimler (örneğin, hangi bilgi kartlarının görüntülendiği, hangi bölümlere ne kadar süreyle erişildiği) gibi anonimleştirilmiş veriler. Bu veriler, uygulamanın performansını ve kullanıcı deneyimini iyileştirmek amacıyla toplanır ve kişisel olarak sizi tanımlamaz."
+        },
+        {
+          "name": "Survey Responses",
+          "details": "Uygulama içindeki anketler aracılığıyla gönüllü olarak paylaştığınız yanıtlar. Bu yanıtlar anonim olarak toplanır ve uygulamanın içeriğini ve özelliklerini geliştirmek için kullanılır. Kişisel bilgi talep edilmez."
+        },
+        {
+          "name": "Device Information",
+          "details": "Uygulamanın düzgün çalışmasını sağlamak ve hataları gidermek amacıyla cihaz türü, işletim sistemi sürümü gibi genel ve anonim cihaz bilgileri toplanabilir. Bu bilgiler, sizi kişisel olarak tanımlamaz."
+        }
+      ]
+    },
+    "dataUsage": {
+      "title": "Veri Kullanımı",
+      "description": "Topladığımız veriler, aşağıdaki amaçlar doğrultusunda kullanılır:",
+      "purposes": [
+        "Uygulamanın işlevselliğini sağlamak ve iyileştirmek.",
+        "Kullanıcı deneyimini kişiselleştirmek ve içeriği optimize etmek (anonimleştirilmiş verilerle).",
+        "Uygulama performansını analiz etmek ve olası teknik sorunları gidermek.",
+        "Kullanıcı geri bildirimlerini değerlendirerek yeni özellikler geliştirmek ve mevcut içeriği güncellemek.",
+        "Dijital güvenlik ve şiddet farkındalığına yönelik genel istatistikler oluşturmak (anonim olarak)."
+      ]
+    },
+    "dataSharing": {
+      "title": "Veri Paylaşımı",
+      "description": "Kişisel verilerinizi üçüncü taraflarla **kesinlikle paylaşmıyoruz, satmıyoruz veya kiralamıyoruz**.",
+      "exceptions": [
+        "Legal Obligations: Yasal bir zorunluluk veya mahkeme kararı gerektirdiğinde, sınırlı veri paylaşımı yapılabilir.",
+        "Service Providers: Uygulamanın teknik altyapısını destekleyen (örneğin, hata raporlama veya analiz hizmetleri sunan) üçüncü taraf hizmet sağlayıcılarla, yalnızca gerekli ölçüde ve katı gizlilik sözleşmeleri çerçevesinde anonimleştirilmiş veriler paylaşılabilir. Bu hizmet sağlayıcıların verileri kendi amaçları doğrultusunda kullanmalarına izin verilmez."
+      ]
+    },
+    "dataSecurity": {
+      "title": "Veri Güvenliği",
+      "description": "Verilerinizin güvenliğini sağlamak için çeşitli teknik ve idari önlemler almaktayız. Bunlar arasında veri şifreleme, güvenli sunucu altyapısı ve yetkisiz erişimi önleyici güvenlik duvarları bulunmaktadır. Ancak, internet üzerinden hiçbir veri aktarımının veya elektronik depolamanın %100 güvenli olmadığını lütfen unutmayın. Bu nedenle, mutlak güvenliği garanti edemeyiz.",
+      "measures": [
+        "Veri şifreleme",
+        "Güvenli sunucu altyapısı",
+        "Erişim kontrolleri",
+        "Düzenli güvenlik denetimleri"
+      ]
+    },
+    "userRights": {
+      "title": "Kullanıcı Hakları",
+      "description": "Kişisel verilerinizi toplamadığımız için, bu verilerle ilgili doğrudan bir 'erişim', 'düzeltme' veya 'silme' hakkınız bulunmamaktadır. Ancak, anket yanıtları gibi gönüllü olarak paylaştığınız anonim verilerin kullanımına ilişkin herhangi bir endişeniz olursa bizimle iletişime geçebilirsiniz.",
+      "contactForRights": "Gizlilik haklarınızla ilgili sorularınız için aşağıdaki iletişim bilgilerini kullanabilirsiniz."
+    },
+    "policyChanges": {
+      "title": "Gizlilik Politikası Değişiklikleri",
+      "description": "Bu Gizlilik Politikası zaman zaman güncellenebilir. Politikada yapılan önemli değişiklikler, uygulamanın içinde veya web sitemiz aracılığıyla duyurulacaktır. Değişiklikler yürürlüğe girdikten sonra uygulamayı kullanmaya devam etmeniz, güncellenmiş politikayı kabul ettiğiniz anlamına gelir."
+    },
+    "contact": {
+      "title": "İletişim",
+      "description": "Gizlilik Politikamız hakkında herhangi bir sorunuz veya endişeniz varsa, lütfen aşağıdaki e-posta adresinden bizimle iletişime geçmekten çekinmeyin:",
+      "email": "kurtbusra956@gmail.com"
+    }
+  }
+}
