@@ -1,0 +1,13 @@
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/dijital_guvenlik.json
+    # Diğer asset'lerin varsa buraya eklersin
+  fonts:
+    - family: Inter # Bu, kodda kullanacağın font ailesinin adı
+      fonts:
+        - asset: fonts/Inter-VariableFont_opsz,wght.ttf # Tek bir değişken font dosyası!
+          # Flutter, bu tek dosya içinden istediğin ağırlığı otomatik çekecek
+          # weight: 400 # Regular için (isteğe bağlı, zaten varsayılan)
+          # weight: 600 # SemiBold için
+          # weight: 700 # Bold için
