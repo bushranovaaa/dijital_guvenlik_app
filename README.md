@@ -38,7 +38,7 @@ Bu projenin daha da büyümesi ve gelişmesi için senin desteğine ihtiyacımı
 
 ## Benimle İletişime Geç!
 Aklına takılan bir şey mi var? Bir öneri mi sunmak istiyorsun? Yoksa sadece merhaba demek mi? Çekinme, bana ulaşmaktan asla çekinme!
-* **Bushra Nova:** [bushranovaaa@example.com](mailto:kubra.krt1980@gmail.com)
+* **Bushra Nova:** [kubra.krt1980@gmail.com](mailto:kubra.krt1980@gmail.com)
 * **GitHub:** [github.com/bushranovaaa](https://github.com/bushranovaaa)
 
 ## Lisans
